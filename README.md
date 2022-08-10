@@ -2,8 +2,8 @@
 <h3 align="center">A passionate in mobile development</h3>
 <br>
 
-<h3>- I'm currently learning Flutter Development</h3>
-<h3>- Proficient at Dart</h3> 
+<h3>-> I'm currently learning Flutter Development</h3>
+<h3>-> Proficient at Dart</h3> 
 
 <br>
 <h3 align="left">Connect with me:</h3>
