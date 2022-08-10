@@ -1,6 +1,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Omar Osama</h1>
 <h3 align="center">A passionate in mobile development</h3>
+<br>
 
+<h3>- I'm currently learning Flutter Development</h3>
+<h3>- Proficient at Dart</h3> 
+
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/omar-osama-3346bb238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar osama" height="30" width="40" /></a>
